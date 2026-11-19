@@ -18,7 +18,7 @@ Get the installer from the Releases section on this page: https://github.com/jas
 
 * Windows 10 or 11, 64-bit.
 * Windows will warn you. This test version isn't signed, so Windows shows "Windows protected your PC." Click More info, then Run anyway.
-* Each test version works for 35 days from its build date. The release notes show the last day. Your course files keep working in the newer version.
+* Each test version works for 60 days from its build date. The release notes show the last day. Your course files keep working in the newer version.
 
 ## Getting started
 
