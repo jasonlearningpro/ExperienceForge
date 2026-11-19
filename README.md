@@ -6,7 +6,7 @@ A Windows desktop app for building eLearning courses. Course logic lives on a vi
 
 See what it makes: a short security awareness course built with ExperienceForge. It plays in your browser, with nothing to download.
 
-**[▶ Play Spot the Phish](https://jasonlearningpro.github.io/ExperienceForge/spot-the-phish/)**
+**[View the sample course: Spot the Phish](https://jasonlearningpro.github.io/ExperienceForge/spot-the-phish/)**
 
 Designed and built by Jason Skocilich, instructional designer. [LinkedIn](https://www.linkedin.com/in/jasonlearningpro)
 
