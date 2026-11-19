@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="700" height="262">
+  <rect width="800" height="300" rx="16" fill="#f8fafc" stroke="#c7d2e0" stroke-width="3"/>
+  <rect width="800" height="42" rx="16" fill="#e2e8f0"/><rect y="26" width="800" height="16" fill="#e2e8f0"/>
+  <text x="400" y="28" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#475569" text-anchor="middle">Messages</text>
+  <text x="34" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" fill="#0f172a">+1 (555) 0142</text>
+  <text x="766" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#64748b" text-anchor="end">Today 9:12</text>
+  <rect x="30" y="92" width="740" height="188" rx="22" fill="#e2e8f0"/>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#0f172a">
+    <text x="52" y="130">Harborview Parcels: your package is on hold.</text>
+    <text x="52" y="162">Pay the $1.99 customs fee within 1 hour</text>
+    <text x="52" y="194">or it will be returned.</text>
+  </g>
+  <text x="52" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="23" fill="#1d4ed8" text-decoration="underline">hrbrvw-parcel.co/pay-now</text>
+  <text x="52" y="266" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#64748b">Reply STOP to opt out</text>
+</svg>

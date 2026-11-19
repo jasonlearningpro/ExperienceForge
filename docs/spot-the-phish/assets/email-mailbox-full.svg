@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="700" height="262">
+  <rect width="800" height="300" rx="16" fill="#ffffff" stroke="#c7d2e0" stroke-width="3"/>
+  <rect width="800" height="42" rx="16" fill="#eef2f8"/><rect y="26" width="800" height="16" fill="#eef2f8"/>
+  <circle cx="28" cy="21" r="7" fill="#f87171"/><circle cx="52" cy="21" r="7" fill="#fbbf24"/><circle cx="76" cy="21" r="7" fill="#34d399"/>
+  <text x="400" y="27" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#475569" text-anchor="middle">Inbox</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#0f172a">
+    <text x="30" y="78" fill="#64748b">From:</text><text x="100" y="78" font-weight="600">Harborview IT Support &lt;it-support@harbor-view-helpdesk.net&gt;</text>
+    <text x="30" y="110" fill="#64748b">Subject:</text><text x="116" y="110" font-weight="600">Your mailbox is almost full</text>
+    <line x1="30" y1="128" x2="770" y2="128" stroke="#e2e8f0" stroke-width="2"/>
+    <text x="30" y="168">Dear user,</text>
+    <text x="30" y="202">Your mailbox is 98% full. Verify it now to avoid losing new messages.</text>
+  </g>
+  <rect x="30" y="224" width="230" height="52" rx="10" fill="#2563eb"/>
+  <text x="145" y="258" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" fill="#ffffff" text-anchor="middle">Verify mailbox</text>
+</svg>
