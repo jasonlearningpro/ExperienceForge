@@ -1,4 +1,4 @@
-/* KnowledgeFoundry user guide website. Colors are the app's own tokens (packages/editor/src/renderer/styles.css), Light and Dark. */
+/* ExperienceForge user guide website. Colors are the app's own tokens (packages/editor/src/renderer/styles.css), Light and Dark. */
 :root {
   color-scheme: light;
   --bg: #f3f5f8; --panel: #ffffff; --panel2: #eef1f5; --line: #d0d7de; --edge: #6e7781;
