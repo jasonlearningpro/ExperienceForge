@@ -1,16 +1,16 @@
-# KnowledgeFoundry (tester preview)
+# ExperienceForge (tester preview)
 
-**[Read the user guide online](https://jasonlearningpro.github.io/knowledgefoundry/)** | **[Download](https://github.com/jasonlearningpro/knowledgefoundry/releases/latest)**
+**[Read the user guide online](https://jasonlearningpro.github.io/ExperienceForge/)** | **[Download](https://github.com/jasonlearningpro/ExperienceForge/releases/latest)** | **[Try a sample course](https://jasonlearningpro.github.io/ExperienceForge/spot-the-phish/)**
 
 A Windows desktop app for building eLearning courses. Course logic lives on a visible flowchart instead of hidden triggers, and courses publish to cmi5, SCORM 2004, SCORM 1.2 or plain web.
 
-https://github.com/user-attachments/assets/8b1dbe3f-edf3-4d7c-a42c-aa41c28b0981
+**See what it makes:** [play Spot the Phish](https://jasonlearningpro.github.io/ExperienceForge/spot-the-phish/), a short security awareness course built with ExperienceForge. It plays right in your browser, with nothing to download.
 
 Designed and built by Jason Skocilich, instructional designer. [LinkedIn](https://www.linkedin.com/in/jasonlearningpro)
 
 ## Download
 
-Get the installer from the Releases section on this page: https://github.com/jasonlearningpro/knowledgefoundry/releases/latest
+Get the installer from the Releases section on this page: https://github.com/jasonlearningpro/ExperienceForge/releases/latest
 
 ## Before you install
 
@@ -20,7 +20,7 @@ Get the installer from the Releases section on this page: https://github.com/jas
 
 ## Getting started
 
-* Help → Example courses opens three finished courses to explore and take apart.
+* Help → Example courses opens four finished courses to explore and take apart.
 * Help → User guide (or F1) covers everything the app can do.
 * A short tour shows you around the first time the app opens.
 
