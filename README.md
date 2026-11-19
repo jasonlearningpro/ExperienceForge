@@ -1,10 +1,12 @@
 # ExperienceForge (tester preview)
 
-**[Read the user guide online](https://jasonlearningpro.github.io/ExperienceForge/)** | **[Download](https://github.com/jasonlearningpro/ExperienceForge/releases/latest)** | **[Try a sample course](https://jasonlearningpro.github.io/ExperienceForge/spot-the-phish/)**
+**[Read the user guide online](https://jasonlearningpro.github.io/ExperienceForge/)** | **[Download](https://github.com/jasonlearningpro/ExperienceForge/releases/latest)**
 
 A Windows desktop app for building eLearning courses. Course logic lives on a visible flowchart instead of hidden triggers, and courses publish to cmi5, SCORM 2004, SCORM 1.2 or plain web.
 
-**See what it makes:** [play Spot the Phish](https://jasonlearningpro.github.io/ExperienceForge/spot-the-phish/), a short security awareness course built with ExperienceForge. It plays right in your browser, with nothing to download.
+See what it makes: a short security awareness course built with ExperienceForge. It plays in your browser, with nothing to download.
+
+**[▶ Play Spot the Phish](https://jasonlearningpro.github.io/ExperienceForge/spot-the-phish/)**
 
 Designed and built by Jason Skocilich, instructional designer. [LinkedIn](https://www.linkedin.com/in/jasonlearningpro)
 
