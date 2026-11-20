@@ -1,0 +1,8 @@
+{
+  "id": "example.gentle-wobble",
+  "name": "Gentle wobble",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "type": "animation",
+  "description": "An emphasis effect that tilts an item a few degrees and back."
+}

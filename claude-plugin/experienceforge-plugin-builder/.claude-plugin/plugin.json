@@ -1,0 +1,9 @@
+{
+  "name": "experienceforge-plugin-builder",
+  "description": "Helps Claude write, check and package an ExperienceForge plugin: a new stage item, effect, question type, export step and more.",
+  "version": "1.0.0",
+  "author": { "name": "Jason Skocilich" },
+  "homepage": "https://github.com/jasonlearningpro/ExperienceForge",
+  "repository": "https://github.com/jasonlearningpro/ExperienceForge",
+  "keywords": ["experienceforge", "elearning", "plugin"]
+}

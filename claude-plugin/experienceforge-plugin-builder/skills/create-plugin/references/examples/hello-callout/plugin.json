@@ -1,0 +1,9 @@
+{
+  "id": "example.hello-callout",
+  "name": "Hello callout",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "type": "stage",
+  "description": "A colored note box for a screen. Shows a heading and a line of text you type in the Inspector.",
+  "capabilities": ["variables"]
+}
